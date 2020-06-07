@@ -1,0 +1,20 @@
+{
+  "name": "raffler",
+  "version": "0.1.0",
+  "description": "Select winners from a list using a fair algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "bin/raffler.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windsdon/raffler.git"
+  },
+  "author": "Windsdon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Windsdon/raffler/issues"
+  },
+  "homepage": "https://github.com/Windsdon/raffler#readme"
+}
